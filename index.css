@@ -1,0 +1,35 @@
+html {
+    background-color:lightblue;
+}
+.header{
+    text-decoration: underline;
+    font-size: x-large;
+}
+.listheader{
+    text-decoration: underline;
+    text-transform: uppercase;
+    font-size: xx-large;
+    display: inline-block;
+    border: 2px solid black;
+    width: 500px;
+    background-color: lightpink;
+}
+
+.food1{
+    position: absolute; bottom: 160px; right: 280px;
+    height: 400px;
+    width: auto;
+    margin: 10px;
+    border: 3px solid yellow;
+    padding: 5px;
+
+}
+
+.food2{
+    position: absolute; top: 750px; right: 100px;
+    height: 300px;
+    width: auto;
+    margin: 10px;
+    border: 3px solid yellow;
+    padding: 5px;
+}

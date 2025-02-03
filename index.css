@@ -23,21 +23,19 @@ table{
 
 .food1{
     display: inline-block;
-    float: right;
-    height: 200px;
+    height: 225px;
     width: auto;
     margin-right: 10px;
     border: 3px solid yellow;
-    padding: 5px;
+    padding: 1px;
 
 }
 
 .food2{
     display:inline-block;
-    float: right;
-    height: 150px;
+    height: 225px;
     width: auto;
     margin-right: 10px;
     border: 3px solid yellow;
-    padding: 5px;
+    padding: 1px;
 }
